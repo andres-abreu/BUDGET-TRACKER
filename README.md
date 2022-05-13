@@ -19,5 +19,5 @@ As the name states, this is a simple budget-tracker, utilizaing indexedDB & serv
 * npm start 
 
 ## APP-DEPLOYMENT-VIA-HEROKU
-https://stormy-scrubland-05355.herokuapp.com/
+CLICK HERE FOR APP-DEPLOYMENT [https://stormy-scrubland-05355.herokuapp.com/]
 

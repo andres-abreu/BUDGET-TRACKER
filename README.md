@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## DESCRIPTION
-As the name states, this is a simple budget-tracker, utilizaing indexedDB & service-worker-functionality which provides a mobile-first PWA user-experience. 
+As the name states, this is a simple finance-ledger, utilizaing indexedDB, NoSQL & express technologies with service-worker-functionality which provides a mobile-first PWA user-experience. 
 
 ## IMAGE-PREVIEW
 ![Screen Shot 2022-05-12 at 11 04 14 PM](https://user-images.githubusercontent.com/94572199/168203208-9d733d60-84ee-44f0-998d-460a3ba56b84.png)
